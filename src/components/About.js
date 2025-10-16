@@ -41,7 +41,7 @@ const AboutPage = () => {
             <Paper elevation={3} sx={{ p: 3, textAlign: 'center', borderRadius: 3 }}>
               <DataObjectIcon fontSize="large" color="primary" />
               <Typography variant="h6" gutterBottom>Data & Analytics</Typography>
-              <Typography variant="body2">Data analysis, Visualization, PySpark, IceBerg, <br/>AI for business insights</Typography>
+              <Typography variant="body2">Data analysis, Visualization, PySpark, Iceberg, <br/>AI for business insights</Typography>
             </Paper>
           </Grid>
 
