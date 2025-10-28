@@ -32,7 +32,7 @@ export default function Home() {
           >
             {/* Profile Image */}
             <Avatar
-              src="/profile.JPG"
+              src="/sai.jpg"
               alt="Sai Jhansi"
               sx={{
                 width: { xs: 120, sm: 150, md: 180 },
